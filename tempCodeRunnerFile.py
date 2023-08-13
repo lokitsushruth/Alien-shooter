@@ -1,0 +1,1 @@
+self.ship.align_bottom_center()
